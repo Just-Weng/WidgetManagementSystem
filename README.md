@@ -8,4 +8,4 @@ This project aims to emulate a inventory management system that processes widget
 This project utilizes OOP principles and a custom stack and queue classes are utilized to implement the inventory and waitlist.
 
 # How To Use
-* The user inputs a .txt file including transaction instructions in the format of <Buy/Sell> <Quantity> <Cost>.
+* The user inputs a .txt file including transaction instructions in the format of \<Buy/Sell\> \<Quantity\> \<Cost\>.
